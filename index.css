@@ -1,0 +1,22 @@
+.container{margin: auto;
+    width: 50%;
+    text-align: left;
+}
+#quizGame{
+    text-align: center;
+    font-size: x-large;
+    padding: 10px;
+    font-weight: bolder;
+    border-bottom: 4px solid royalblue;
+    color: royalblue;
+    text-shadow: #000 0px 0px 1px;
+}
+#dir{
+    text-align: center;
+    color: royalblue;
+    text-shadow: #000 0px 0px 1px;
+    margin: 2px;
+}
+#s{
+    text-align: center;
+}

@@ -1,8 +1,23 @@
 .buttonz{
-    color: royalblue;
-    background-color: lightblue;
+    color: white;
+    background-color: royalblue;
+    margin: 5px;
 }
 .container{margin: auto;
     width: 50%;
-    text-align: center;
+    text-align: left;
+}
+ul{
+    list-style-type: lower-alpha;
+}
+#questions{
+text-align: center;
+font-size: x-large;
+padding: 20px;
+font-weight: bolder;
+border-bottom: 4px solid royalblue;
+color: royalblue;
+text-shadow: #000 0px 0px 1px;
+
+
 }

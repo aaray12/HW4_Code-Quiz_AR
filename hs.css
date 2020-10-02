@@ -1,0 +1,16 @@
+ol{
+    background-color: yellowgreen;
+    font-size: 25px;
+}
+.container{margin: auto;
+    width: 50%;
+    text-align: left;
+}
+#HS{
+    text-align: center;
+    font-size: x-large;
+    padding: 10px;
+    font-weight: bolder;
+    border-bottom: 4px solid royalblue;
+    color: royalblue;
+    text-shadow: #000 0px 0px 1px;}

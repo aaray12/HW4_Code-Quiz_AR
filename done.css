@@ -1,0 +1,26 @@
+.container{margin: auto;
+    width: 50%;
+    text-align: left;
+}
+#done{
+    text-align: center;
+    font-size: large;
+    padding: 5px;
+    font-weight: bolder;
+    border-bottom: 4px solid royalblue;
+    color: royalblue;
+    text-shadow: #000 0px 0px 1px;
+    margin-top: auto;
+}
+form{
+    color: royalblue;
+    text-shadow: #000 0px 0px 1px;
+    text-align: center;
+}
+
+#YS{
+    color: royalblue;
+    text-shadow: #000 0px 0px 1px;
+    text-align: center;
+    font-size: x-large;
+}
