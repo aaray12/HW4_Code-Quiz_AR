@@ -9,7 +9,7 @@ var count = 0;
 var score = 0;
 
 var qAndAs=[
-    {q: "How many Oscars does Tom Hanks have?", a: "0", wa1: "1", wa2 : "2", wa3 : "3"},
+    {q: "How many Oscars does Tom Hanks have?", a: "2", wa1: "1", wa2 : "0", wa3 : "3"},
     {q: "Which one of these is the TV show Tom Hanks starred in?", a: "Bosom Buddies", wa1: "Breast Brothers", wa2 : "Boobs Noobs", wa3 : "Chest Cousins"}, 
     {q: "Which one of these Tom Hanks movies did NOT co-star Meg Ryan", a: "The Terminal", wa1 : "You've Got Mail",  wa2 : "Joe Versus The Volcano", wa3 : "Sleepless In Seattle"},
     {q: "How many acting credits does Tom Hanks have", a: "75-99", wa1 : "25-49",  wa2 : "50-74", wa3 : "100+"},
